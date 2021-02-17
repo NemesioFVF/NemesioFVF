@@ -7,7 +7,10 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NemesioFVF&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=NemesioFVF&show_icons=true&count_private=true&theme=dark" width="350">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NemesioFVF&layout=compact&theme=dark" width="300">
+  </a>
 </p>
 
 <p align='center'>
