@@ -24,10 +24,6 @@
 <p align='center'>
   📫 Como me encontrar: <a href='mailto:nemesioflorence@gmail.com'>nemesioflorence@gmail.com</a>  📫
 </p>
-<p align='center'>
-  Você gostou de algum dos meus projetos de código aberto? <a href='https://stars.github.com/nominate/'>Me indica para estrelas do Github</a> ⭐
-</p>
-
 
 <details>
   <summary>📃 Estudos / Formações / Experiências</summary>
