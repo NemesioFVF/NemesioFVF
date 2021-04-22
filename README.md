@@ -44,6 +44,22 @@
 
 ## Formação
 
+- 📖 **Desenvolvimento de Portais com WCM**\
+📆 2021\
+📍 **TOTVS Fluig Academy** - São Paulo, Brasil
+
+- 📖 **Desenvolvimento de Processos - BPM/ECM Advanced**\
+📆 2021\
+📍  **TOTVS Fluig Academy** - São Paulo, Brasil
+
+- 📖 **Desenvolvimento de Processos - BPM/ECM Intermediate**\
+📆 2021\
+📍  **TOTVS Fluig Academy** - São Paulo, Brasil
+
+- 📖 **Desenvolvimento de Processos - BPM/ECM Essentials**\
+📆 2021\
+📍  **TOTVS Fluig Academy** - São Paulo, Brasil
+
 - 📖 **Beginner - Introdução ao Desenvolvimento Web**\
 📆 2020 – 2021\
 📍 **Faculdade iv2** - Jundiaí, Brasil
@@ -66,8 +82,12 @@
 
 ## Experiências
 
+- 👨‍💻 **Estagiário de Desenvolvimento**\
+📆 2021 – atuando no momento\
+📍 **Grupo iv2** - Jundiaí / São Paulo - Brasil
+
 - 👨‍💻 **Assitente de T.I**\
-📆 2018 – atuando no momento\
+📆 2018 – 2021\
 📍 **Hospital Universitario de Jundiaí** - Jundiaí / São Paulo - Brasil
 
 - 👨‍💻 **Técnico de Informática**\
